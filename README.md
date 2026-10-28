@@ -9,7 +9,7 @@
 
 You've stumbled into the hub of my digital experiments. Yes, you might see some gorgeous code, but please, no deep inspection of the older repositories — some things are best left in the git history! 😉
 
-I am a **Software Engineer** working with the **Madina Group of Industries**, dedicated to building smart, scalable systems. My daily life revolves around crafting backend magic, but my real passion is making things run on autopilot.
+I am a **Software Engineer** working in **Bixosoft Company**, dedicated to building smart, scalable systems. My daily life revolves around crafting backend magic, but my real passion is making things run on autopilot.
 
 ### 🤖 What I Do:
 * 🌐 **Laravel Specialist**: Transforming complex enterprise problems into elegant web architectures.
